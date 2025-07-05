@@ -2,20 +2,6 @@
 {
     "partners": [
         {
-            "id": "1",
-            "name": "Tech Channel",
-            "username": "@techcanal",
-            "active": true,
-            "priority": 1,
-            "category": "tech",
-            "ad_type": "text", 
-            "ad_content": {
-                "text": "🚀 <b>Лучший канал о технологиях!</b>\n\n💻 Новинки техники\n📱 Обзоры гаджетов\n🔧 Полезные советы\n\n➡️ Подписывайся: @techcanal",
-                "parse_mode": "HTML",
-                "disable_web_page_preview": true
-            }
-        },
-        {
             "id": "2",
             "name": "Crypto News",
             "username": "@cryptonews", 
