@@ -9,7 +9,7 @@
             "priority": 1,
             "ad_type": "text",
             "ad_content": {
-                "text": "💰 <b>Всё о криптовалютах!</b>\n\n📈 Актуальные курсы\n📊 Аналитика рынка\n💡 Инвестиционные идеи\n\n➡️ Присоединяйся: @StariyDev",
+                "text": "💰 <b>Всё о гандонах!</b>\n\n📈 Актуальные курсы\n📊 Аналитика рынка\n💡 Инвестиционные идеи\n\n➡️ Присоединяйся: @StariyDev",
                 "parse_mode": "HTML",
                 "disable_web_page_preview": false
             }
