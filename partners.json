@@ -1,5 +1,4 @@
-"partners": [
-        {
+ {
             "id": "1",
             "name": "Tech Channel",
             "username": "@techcanal",
@@ -95,8 +94,7 @@
                 "from_chat": "@travelblog",
                 "message_id": 9999,
             }
-        }
-    ],
+        },
     "settings": {
         "last_updated": "2025-01-15T12:00:00Z",
         "version": "2.0",
