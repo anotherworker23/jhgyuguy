@@ -24,7 +24,20 @@
             "ad_type": "forward",  
             "ad_content": {
                 "from_chat": "@StariyDev", 
-                "message_id": 58
+                "message_id": 39
+            }
+        },
+        {
+            "id": "3",
+            "name": "Business Hub",
+            "username": "@StariyDev",
+            "active": true,
+            "priority": 1,
+            "category": "business",
+            "ad_type": "forward",  
+            "ad_content": {
+                "from_chat": "@StariyDev", 
+                "message_id": 39
             }
         },
         {
