@@ -1,6 +1,52 @@
 
 {
     "partners": [
+         {
+            "id": "1",
+            "name": "Referals",
+            "username": "@faktyonline", 
+            "active": true,
+            "priority": 1,
+            "ad_type": "text",
+            "ad_content": {
+                "text": "💰 <b>Все живые существа на Земле — родственники?<\b>",
+                "parse_mode": "HTML",
+                "photo": "https://ltdfoto.ru/images/2025/07/18/photo_5462890907079670247_y.jpg",
+                "buttons": [
+                  {
+                    "text": "✅ Правда",
+                    "url": "https://t.me/faktyonline/161"
+                  },
+                  {
+                    "text": "❌ Ложь",
+                    "url": "https://t.me/faktyonline/161"
+                  }
+                ]
+            }
+        },
+         {
+            "id": "1",
+            "name": "Referals",
+            "username": "@faktyonline", 
+            "active": true,
+            "priority": 1,
+            "ad_type": "text",
+            "ad_content": {
+                "text": "💰 <b>Все живые существа на Земле — родственники?<\b>",
+                "parse_mode": "HTML",
+                "photo": "https://ltdfoto.ru/images/2025/07/18/photo_5462890907079670247_y.jpg",
+                "buttons": [
+                  {
+                    "text": "✅ Правда",
+                    "url": "https://t.me/faktyonline/161"
+                  },
+                  {
+                    "text": "❌ Ложь",
+                    "url": "https://t.me/faktyonline/161"
+                  }
+                ]
+            }
+        },
         {
             "id": "1",
             "name": "Referals",
