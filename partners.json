@@ -50,7 +50,6 @@
             "ad_content": {
                 "text": "💰 <b>Все живые существа на Земле — родственники?<\b>",
                 "parse_mode": "HTML",
-                "disable_web_page_preview": false,
                 "photo": "https://ltdfoto.ru/images/2025/07/18/photo_5462890907079670247_y.jpg",
                 "buttons": [
                   {
