@@ -6,7 +6,7 @@
             "name": "Referals",
             "username": "@faktyonline", 
             "active": true,
-            "priority": 1,
+            "priority": 5,
             "ad_type": "text",
             "ad_content": {
                 "text": "<b>Все живые существа на Земле — родственники?</b>",
@@ -29,7 +29,7 @@
             "name": "Referals",
             "username": "@faktyonline", 
             "active": true,
-            "priority": 1,
+            "priority": 5,
             "ad_type": "text",
             "ad_content": {
                 "text": "<b>Все живые существа на Земле — родственники?</b>",
@@ -91,7 +91,7 @@
             "name": "Referals",
             "username": "@faktyonline", 
             "active": true,
-            "priority": 1,
+            "priority": 5,
             "ad_type": "text",
             "ad_content": {
                 "text": "<b>Все живые существа на Земле — родственники?</b>",
