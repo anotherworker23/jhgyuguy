@@ -6,7 +6,7 @@
             "name": "Referals",
             "username": "@StariyDev",
             "active": true,
-            "priority": 1,
+            "priority": 100,
             "category": "digital",
             "ad_type": "forward",  
             "ad_content": {
@@ -19,7 +19,7 @@
             "name": "Referals",
             "username": "@StariyDev",
             "active": true,
-            "priority": 2,
+            "priority": 100,
             "category": "digital",
             "ad_type": "forward",  
             "ad_content": {
@@ -32,7 +32,7 @@
             "name": "Referals",
             "username": "@StariyDev",
             "active": true,
-            "priority": 3,
+            "priority": 100,
             "category": "digital",
             "ad_type": "forward",  
             "ad_content": {
@@ -45,7 +45,7 @@
             "name": "Referals",
             "username": "@faktyonline", 
             "active": true,
-            "priority": 5,
+            "priority": 1,
             "ad_type": "text",
             "ad_content": {
                 "text": "<b>Все живые существа на Земле — родственники?</b>",
@@ -68,7 +68,7 @@
             "name": "Referals",
             "username": "@faktyonline", 
             "active": true,
-            "priority": 5,
+            "priority": 1,
             "ad_type": "text",
             "ad_content": {
                 "text": "<b>Все живые существа на Земле — родственники?</b>",
@@ -91,7 +91,7 @@
             "name": "Referals",
             "username": "@faktyonline", 
             "active": true,
-            "priority": 5,
+            "priority": 1,
             "ad_type": "text",
             "ad_content": {
                 "text": "<b>Все живые существа на Земле — родственники?</b>",
