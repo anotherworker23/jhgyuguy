@@ -11,11 +11,24 @@
             "ad_type": "forward",  
             "ad_content": {
                 "from_chat": "@StariyDev", 
-                "message_id": 90
+                "message_id": 117
             }
         },
         {
             "id": "2",
+            "name": "Referals",
+            "username": "@StariyDev",
+            "active": true,
+            "priority": 1,
+            "category": "digital",
+            "ad_type": "forward",  
+            "ad_content": {
+                "from_chat": "@StariyDev", 
+                "message_id": 99
+            }
+        },
+        {
+            "id": "3",
             "name": "Referals",
             "username": "@StariyDev",
             "active": true,
@@ -37,7 +50,20 @@
             "ad_type": "forward",  
             "ad_content": {
                 "from_chat": "@StariyDev", 
-                "message_id": 90
+                "message_id": 98
+            }
+        },
+        {
+            "id": "3",
+            "name": "Referals",
+            "username": "@StariyDev",
+            "active": true,
+            "priority": 1,
+            "category": "digital",
+            "ad_type": "forward",  
+            "ad_content": {
+                "from_chat": "@StariyDev", 
+                "message_id": 96
             }
         },
          {
@@ -189,5 +215,6 @@
         }
     }
 }
+
 
 
